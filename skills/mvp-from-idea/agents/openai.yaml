@@ -1,0 +1,5 @@
+interface:
+  display_name: "MVP From Idea"
+  short_description: "Guide nontechnical MVPs from idea to validation"
+  default_prompt: "Use $mvp-from-idea to walk me through this MVP idea from definition to validation."
+
