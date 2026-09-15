@@ -1,6 +1,6 @@
 # Personal Agent Skills
 
-Private source repository for reusable Agent Skills.
+Source repository for reusable Agent Skills.
 
 ## Included skills
 
@@ -16,4 +16,3 @@ ln -s ~/agent-skills/skills/mvp-from-idea ~/.agents/skills/mvp-from-idea
 ```
 
 If the skill does not appear in Codex, restart Codex and invoke it explicitly with `$mvp-from-idea`.
-
